@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecorridoMaps</string>
+
+    <string-array name="modos_viaje">
+        <item>walking</item>
+        <item>driving</item>
+        <item>bicycling</item>
+    </string-array>
+</resources>
